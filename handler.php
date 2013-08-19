@@ -7,7 +7,7 @@
 
 	<?php
 
-	echo "<h1>Привет, " . $_POST["username"] . "</h1>";
+	echo "<h1>Hello, " . $_POST["username"] . "</h1>";
 
 	?>
 
