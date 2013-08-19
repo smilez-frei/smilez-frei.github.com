@@ -1,4 +1,5 @@
-<html>
+<?php	
+	<html>
 	<head>
 	<title>Form</title>
 	</head>
@@ -13,3 +14,4 @@
 
 	</body>
 	</html>
+?>
