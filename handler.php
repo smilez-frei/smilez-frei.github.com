@@ -10,7 +10,7 @@
 
 	echo "Hello, " . $_POST["username"];
 
-	?>
+	
 
 	</body>
 	</html>
